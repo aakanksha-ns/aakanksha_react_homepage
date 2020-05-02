@@ -1,0 +1,3 @@
+displayes names of cities and states that consist of the word typed, the part where the word type is contained is highlighted.
+It uses 'change'  and 'keyup' events to identify changes in the input value, after which a filter on the city list is done to 
+return valid matches.

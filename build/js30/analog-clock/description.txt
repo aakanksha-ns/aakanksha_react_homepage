@@ -1,0 +1,2 @@
+An anlog clock that shows the current time and has hours, minutes and seconds hand.
+It uses the CSS rotate method to set the hands to the current time every second.

@@ -1,0 +1,2 @@
+This is a simple application to iplement a drum-kit, where you can press specific keys to produce different sounds.
+It uses events like 'keyup' and 'keydown' to identify when keys are pressed, and keycode to identify the specific key that is pressed.

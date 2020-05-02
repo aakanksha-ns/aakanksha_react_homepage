@@ -1,0 +1,41 @@
+.projects-component{
+    margin-top: 130px;
+    padding: 20px 50px 20px 50px;
+}
+
+.card-media{
+    height: 140px;
+}
+
+.card-content {
+    height: 250px;
+    max-width: 345px;
+}
+
+.js30-card{
+    width: 30%;
+}
+
+@media (max-width: 650px) {
+    .js30-card{
+        width: 40%;
+    }
+}
+
+@media (max-width: 700px) {
+    .js30-card{
+        width: 90%;
+    }
+    .projects-component{
+        margin-top: 130px;
+        padding: 20px 20px 20px 20px;
+    }
+
+    .card-content {
+        height: 200px;
+        max-width: 345px;
+    }
+    .projects-paper{
+        box-shadow: none !important;
+    }
+}

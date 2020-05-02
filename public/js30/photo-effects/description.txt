@@ -1,0 +1,2 @@
+A webpage to apply different styles to an image, like changing border color, blurring and changing border width.
+It uses js to make changes to the cc-styles applied onto the image.

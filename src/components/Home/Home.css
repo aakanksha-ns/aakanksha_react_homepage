@@ -1,0 +1,82 @@
+.about-text {
+    font: normal normal normal 80px/1.2em "Josefin Sans sans-serif";
+    color: black;
+    font-size: 3em;
+    font-weight: bold;
+    text-align: center;
+    font-family: "Josefin Sans";
+}
+
+.description {
+    font: normal normal normal 80px/1.2em "Helvetica Neue,Helvetica,Arial,sans-serif";
+    color: black;
+    font-size: 1.5em;
+    margin-top: 30px;
+    font-family: "Josefin Sans";
+    color: black;
+}
+
+.home-component{
+    background: url(../../resources/aksh_2.jpg);
+    background-size: cover;
+    height: 100%;
+}
+
+.paper{
+    width: 90%;
+    margin-top: 13em;
+    background-color: rgb(243, 242, 242);
+    box-shadow: 10px 10px 5px rgba(0,0,0,0.2);
+    transition: 0.3s;
+    margin-left: 20px;
+    padding-bottom: 20px;
+}
+
+.paper-content{
+    padding: 20px 20px 20px 40px;
+}
+
+.icons-wrapper{
+    padding-top: 60px;
+    padding-bottom: 20px
+}
+
+.hidden-button{
+    margin-top: 200px;
+    text-decoration: none;
+}
+
+.about-photo{
+    max-width:100%;
+    max-height:100%;
+}
+
+@media (max-width: 450px) {
+    .home-component {
+        background: none;
+    }
+    .paper {
+        width: 100%;
+        margin-top: 5em;
+    }
+    .about-text{
+        font-size: 3em;
+        background: url(../../resources/bg-xs.jpg);
+        background-size: cover;
+        color: white;
+    }
+    .tint {
+        z-index: 1;
+        width: 100%;
+        position: absolute;
+        top: 80px;
+        left: 0px;
+        background: rgba(0, 0, 0, 0.7);
+    }
+    .description{
+        padding: 15px 15px 15px 25px;
+    }
+    .paper-content{
+        padding: 0px;
+    }
+}

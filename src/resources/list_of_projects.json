@@ -1,0 +1,76 @@
+[
+    {
+        "name": "Flower Classifier",
+        "link": "https://flower-classifier-dad75.firebaseapp.com",
+        "pic": "../../resources/projects/flower_classifier.png",
+        "description": "Created a computer vision based web-app to identify a flower given its picture"
+    },
+    {
+        "name": "Piper",
+        "link": "./docs/piper.pdf",
+        "pic": [
+            "./pics/piper_1.png",
+            "./pics/piper_2.png"
+        ],
+        "description": "Developed an android application that can recognize the genre  and identify the lyrics of a song played externally or chosen from the device. Genre classification was done using Machine learning (Neural Networks) over MFCC features , and lyrics identification using audio fingerprinting technique."
+    },
+    {
+        "name": "Javascript 30",
+        "link": "./js30/index.html",
+        "pic": [
+            "../../resources/projects/js30.png"
+        ],
+        "description": "https://javascript30.com </br> 30 small projects built using Vanilla JS"
+    },
+    {
+        "name": "College Website",
+        "link": "./college-website/index.html",
+        "pic": [
+            "./pics/college1.png",
+            "./pics/college2.png"
+        ],
+        "description": "Developed a 6-page sample college website using HTML, CSS andJavascript (for interactivity). Used CSS transitions to develop a sliding image gallery for periodic animations."
+    },
+    {
+        "name": "Computational Creativity",
+        "link": "./docs/seminar.pdf",
+        "pic": [
+            "./pics/seminar_1.png",
+            "./pics/seminar_2.png"
+        ],
+        "description": "Presented a seminar and prepared a detailed report on creativity of computers in various fields like art, music , literature etc."
+    },
+    {
+        "name": "Tic Tac Toe",
+        "link": "#",
+        "pic": [
+            "./pics/tic_tac_1.png",
+            "./pics/tic_tac_2.png"
+        ],
+        "description": "This is a simple tic-tac-toe game built using ReactJS"
+    },
+    {
+        "name": "Data Mining",
+        "link": "./docs/DM.pdf",
+        "pic": [
+            "./pics/mining.png"
+        ],
+        "description": "Performed preprocessing using OpenRefine and Data mining using Weka on a large dataset and developed an effective classifier."
+    },
+    {
+        "name": "Operating Systems Lab",
+        "link": "https://xosnitc.github.io",
+        "pic": [
+            "./pics/xos.png"
+        ],
+        "description": "Developed a toy operating system on a simulated machine with all basic functionalities like running user programs, creation and deletion of files,  system calls, interrupts etc. Implemented Multiprogramming by invoking a timer interrupt which saves the context of the current process and transfers control to the next process."
+    },
+    {
+        "name": "Compilers Lab",
+        "link": "http://silcnitc.github.io",
+        "pic": [
+            "./pics/compiler.png"
+        ],
+        "description": "Developed a compiler that allows static and dynamic storage allocation, functions, user defined types and variables etc using LEX and YACC Used Global and local symbol tables to store and access variables."
+    }
+]

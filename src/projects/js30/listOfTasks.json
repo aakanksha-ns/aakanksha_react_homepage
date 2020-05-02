@@ -1,0 +1,67 @@
+[
+  {
+    "name": "Drumkit",
+    "link": "./js30/drum-kit",
+    "pic": ["./pics/drumKit.png"],
+    "description":
+      "This is a simple application to implement a drum-kit, where you can press specific keys to produce different sounds."
+  },
+  {
+    "name": "Analog Clock",
+    "link": "./js30/analog-clock",
+    "pic": ["./pics/clock.png"],
+    "description":
+      "An anlog clock that shows the current time and has hours, minutes and seconds hand. It uses the CSS rotate method to set the hands to the current time every second."
+  },
+  {
+    "name": "Photo Effects",
+    "link": "./js30/photo-effects",
+    "pic": ["./pics/photo-effects.png"],
+    "description":
+      "A webpage to apply different styles to an image, like changing border color, blurring and changing border width. It uses js to make changes to the cc-styles applied onto the image."
+  },
+  {
+    "name": "Multiple Check Boxes",
+    "link": "./js30/shift-and-check-all",
+    "pic": ["./pics/multipleCheckboxes.png"],
+    "description":
+      "Implements function to check multiple checkboxes on holding Shift key."
+  },
+  {
+    "name": "Flexes",
+    "link": "./js30/flexes",
+    "pic": ["./pics/flexes.png"],
+    "description": "experimenting with flexes."
+  },
+  {
+    "name": "Canvas",
+    "link": "./js30/canvas",
+    "pic": ["./pics/canvas.png"],
+    "description": "experimenting with html5 canvas."
+  },
+  {
+    "name": "Type Ahead",
+    "link": "./js30/Type-ahead",
+    "pic": ["./pics/typeAhead.png"],
+    "description":
+      "displayes names of cities and states that consist of the word typed, the part where the word type is contained is highlighted. It uses 'change'  and 'keyup' events to identify changes in the input value, after which a filter on the city list is done to return valid matches."
+  },
+  {
+    "name": "Custom Video Player",
+    "link": "./js30/Custom-video-player",
+    "pic": ["./pics/customPlayer.png"],
+    "description": "A custom HTML5 Video Player."
+  },
+  {
+    "name": "Key Sequence Detection",
+    "link": "./js30/secretCode",
+    "pic": ["./pics/secretCode.png"],
+    "description": "Type in the secret code to see the magic (aksh)"
+  },
+  {
+    "name": "Slide in on Scroll",
+    "link": "./js30/Slide-in-on-scroll",
+    "pic": ["./pics/slideScroll.png"],
+    "description": "Pictures slide in to place on scrolling"
+  }
+]
