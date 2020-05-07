@@ -1,6 +1,18 @@
 export const PROJECTS = [
 
     {
+        "name": "Item Rating Prediction",
+        "link": "https://towardsdatascience.com/multiclass-text-classification-using-lstm-in-pytorch-eac56baed8df",
+        "pic": require("../resources/projects/item_rating.png"),
+        "description": ["• Built a deep learning model to predict the user rating (in the range 1-5) of a product, given its review comments from the user.", "• Used an LSTM model in Pytorch and achieved a Root mean squared error (RMSE) of 0.79."]
+    },
+    {
+        "name": "Online bookstore",
+        "link": "https://book-store-c8fb5.firebaseapp.com/",
+        "pic": require("../resources/projects/book_store.jpg"),
+        "description": ["• Designed and developed an online bookstore where a user can register, login, add books to cart, and checkout.", "• Used Heroku Postgres, SQLAlchemy, and Flask for back-end; React and Redux for front-end."]
+    },
+    {
         "name": "Flower Classification WebApp",
         "link": "https://flower-classifier-dad75.firebaseapp.com",
         "pic": require("../resources/projects/floclassifier.jpg"),
@@ -17,6 +29,12 @@ export const PROJECTS = [
         "link": "https://taylor-swift-lyrics-generator.firebaseapp.com/",
         "pic": require("../resources/projects/lyrics.jpg"),
         "description": ["•Built a custom dataset by web scraping using the BeautifulSoup library.", "• Developed a deep learning model using transfer learning from ULMFiT architecture and finetuning it to generate lyrics given a phrase as prompt. "]
+    },
+    {
+        "name": "Factnews - Digital Media Literacy",
+        "link": "http://factnews.io/",
+        "pic": require("../resources/projects/factnews.png"),
+        "description": ["• This app allows users to improve their media literacy by taking a critical eye towards what news items are forwarded to them in a quick, informative dashboard.", "• Automates cross-checking for quick verification and provide a more complex approach of machine learning as an option, so they can understand why and how to verify digital information."]
     },
     {
         "name": "Gender Divide in Data Science - EDA and visualization",
