@@ -2,7 +2,7 @@ export const PROJECTS = [
 
     {
         "name": "Item Rating Prediction",
-        "link": "https://towardsdatascience.com/multiclass-text-classification-using-lstm-in-pytorch-eac56baed8df",
+        "link": "https://towardsdatascience.com/multiclass-text-classification-using-lstm-in-pytorch-eac56baed8df?source=friends_link&sk=3fcf7b5d8c730758c5f1e829488b98c5",
         "pic": require("../resources/projects/item_rating.png"),
         "description": ["• Built a deep learning model to predict the user rating (in the range 1-5) of a product, given its review comments from the user.", "• Used an LSTM model in Pytorch and achieved a Root mean squared error (RMSE) of 0.79."]
     },
@@ -56,13 +56,13 @@ export const PROJECTS = [
     },
     {
         "name": "Movie Genre Identifier",
-        "link": "https://towardsdatascience.com/building-a-movie-genre-classifier-using-a-dataset-created-using-google-images-4752f75a1d79",
+        "link": "https://towardsdatascience.com/building-a-movie-genre-classifier-using-a-dataset-created-using-google-images-4752f75a1d79?source=friends_link&sk=61a80aba88b25670ae39996a0992c76f",
         "pic": require("../resources/projects/movies.jpg"),
         "description": ["• Generated a custom dataset using Google images", "• Trained a model to identify the genre (horror, romance, superhero) of a movie by looking at its poster with an accuracy of 80%.", "• Performed various experiments on the model to improve accuracy and made observations about them."]
     },
     {
         "name": "NLP - Toxic Comment classification",
-        "link": "https://towardsdatascience.com/getting-started-with-natural-language-processing-nlp-2c482420cc05",
+        "link": "https://towardsdatascience.com/getting-started-with-natural-language-processing-nlp-2c482420cc05?source=friends_link&sk=93e227bc765361e5b7ef94ba92801a48",
         "pic": require("../resources/projects/comments.png"),
         "description": ["• Performed Data exploration and classified comments as toxic vs non-toxic: https://jovian.ml/aakanksha-ns/toxic-comments", "• Explored data using spacy, created wordclouds, used fasttext for classification"]
     },
